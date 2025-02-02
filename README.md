@@ -1,5 +1,3 @@
-# ayvleloe2
-test
 <!DOCTYPE html>
 <html lang="ru">
 <head>
